@@ -26,10 +26,9 @@
 
 *   🎓 **B.Tech in Computer Science (Data Science)** at Bennett University, Class of 2027 — *CGPA: 8.32/10*
 *   🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — Ran resume workshops & mock interviews for 700+ students.
-*   🔬 **AI/ML Enthusiast** — Built an emotion intelligence pipeline during my ML internship at ArvyaX.
 *   📡 **Researcher** — Co-author on research spanning satellite-based PM2.5 estimation (CNN + XGBoost) and earthquake prediction.
-*   🧮 **Problem Solver** — Solved **790+** algorithmic problems across competitive coding platforms.
-*   🚀 **Currently Building** — An end-to-end RAG-based *"Chat with your Documents"* application.
+*   🧮 **Problem Solver** — Solved **819+** algorithmic problems across competitive coding platforms.
+*   
 *   💬 **Ask me about** — RAG systems, computer vision pipelines, time series analysis, and full-stack ML apps.
 
 <br>
