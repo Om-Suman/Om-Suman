@@ -28,7 +28,6 @@
 *   🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — Ran resume workshops & mock interviews for 700+ students.
 *   📡 **Researcher** — Co-author on research spanning satellite-based PM2.5 estimation (CNN + XGBoost) and earthquake prediction.
 *   🧮 **Problem Solver** — Solved **819+** algorithmic problems across competitive coding platforms.
-*   
 *   💬 **Ask me about** — RAG systems, computer vision pipelines, time series analysis, and full-stack ML apps.
 
 <br>
