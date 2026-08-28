@@ -118,7 +118,7 @@ Natural-language-to-Pandas pipeline with RAG retrieval, forecasting and download
 
 <b>Tech:</b><br>
 
-<code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>LlamaIndex</code> <code>LLaMA</code>
+<code>Python</code> <code>React</code> <code>LangChain</code> <code>LlamaIndex</code> <code>Deepseek</code>
 
 </td>
 
@@ -188,13 +188,24 @@ Covers sales trends, profitability, price sensitivity and SQL-based customer seg
   />
 </p>
 
+---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Om-Suman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=5"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
 
 ### 🎯 Current Focus
 
 <p align="center">
 
-`RAG Systems` · `LLM Applications` · `Computer Vision`
+`RAG Systems` · `LLM Applications` · `Computer Vision`  
 `Machine Learning` · `Data Analytics` · `FastAPI` · `Docker`
 
 </p>
@@ -207,8 +218,6 @@ Covers sales trends, profitability, price sensitivity and SQL-based customer seg
     alt="Developer Quote"
   />
 </p>
-
-
 
 <img
 width="100%"
