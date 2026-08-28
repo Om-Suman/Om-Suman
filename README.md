@@ -190,16 +190,7 @@ Covers sales trends, profitability, price sensitivity and SQL-based customer seg
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Om-Suman&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=5"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
 
 ### 🎯 Current Focus
 
