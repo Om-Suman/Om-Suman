@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Building+Computer+Vision+systems;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,10 +32,10 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-* 🎓 **B.Tech in Computer Science (Data Science)** at Bennett University, Class of 2027 — *CGPA: 8.32/10*
-* 🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — Ran resume workshops & mock interviews for **700+ students**
-* 🤖 Interested in **Generative AI, RAG, Machine Learning, Computer Vision & Data Science**
-* ⚙️ Enjoy building applications that combine **AI models, data pipelines and backend systems**
+* 🎓 **B.Tech CSE (Data Science)** — Bennett University, Class of 2027 | **CGPA: 8.32/10**
+* 🤖 **AI/ML & Data Science** enthusiast focused on **Generative AI, RAG, Computer Vision & Machine Learning**
+* ⚙️ Build end-to-end applications combining **AI models, data pipelines, APIs & databases**
+* 🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — conducted resume workshops & mock interviews for **700+ students**
 
 <br clear="right">
 
@@ -99,107 +99,27 @@
 
 </details>
 
----
-
-### 🛠️ Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Advanced Data Analyst Agent</h3>
-
-AI-powered analytics platform supporting **7+ file formats**.
-
-Natural-language-to-Pandas pipeline with RAG retrieval, forecasting and downloadable insight reports.
-
-<br>
-
-<b>Tech:</b><br>
-
-<code>Python</code> <code>React</code> <code>LangChain</code> <code>LlamaIndex</code> <code>Deepseek</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🗳️ CryptoVote</h3>
-
-Secure web-based voting platform with complete election-management workflows.
-
-Includes OTP authentication and database-level enforcement of one-vote-per-user integrity.
-
-<br>
-
-<b>Tech:</b><br>
-
-<code>Django</code> <code>PostgreSQL</code> <code>Tailwind CSS</code> <code>OTP</code>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📦 Smart Retail Shelf Monitoring</h3>
-
-End-to-end computer vision system for automated retail inventory monitoring.
-
-YOLOv11 detection served through a FastAPI backend with a Streamlit dashboard and Dockerized deployment.
-
-<br>
-
-<b>Tech:</b><br>
-
-<code>YOLOv11</code> <code>PyTorch</code> <code>FastAPI</code> <code>Docker</code>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📈 Sales Performance Dashboard</h3>
-
-Interactive business intelligence dashboard analyzing **51K+ retail transactions**.
-
-Covers sales trends, profitability, price sensitivity and SQL-based customer segmentation.
-
-<br>
-
-<b>Tech:</b><br>
-
-<code>MySQL</code> <code>Power BI</code> <code>Pandas</code> <code>Python</code>
-
-</td>
-
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Om-Suman&theme=radical&hide_border=true"
     alt="GitHub Streak"
+    width="70%"
   />
 </p>
 
 ---
 
+### 📊 GitHub Overview
 
-
-### 🎯 Current Focus
-
-<p align="center">
-
-`RAG Systems` · `LLM Applications` · `Computer Vision`  
-`Machine Learning` · `Data Analytics` · `FastAPI` · `Docker`
-
-</p>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Om-Suman&theme=github_dark"
+    width="95%"
+    alt="GitHub Profile Summary"
+  />
+</div>
 
 ---
 
@@ -211,6 +131,6 @@ Covers sales trends, profitability, price sensitivity and SQL-based customer seg
 </p>
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
 />
