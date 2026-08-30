@@ -168,4 +168,4 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
-/> enhance my readme also you can use a diffrent image but it should be better than previous one
+/> 
