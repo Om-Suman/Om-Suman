@@ -52,15 +52,13 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Om-Suman&style=flat-square&color=00C4CC&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=Om-Suman&style=for-the-badge&color=00C4CC&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
-
-<img
- src="https://img.shields.io/github/followers/Om-Suman?style=flat-square&color=0077B5&label=FOLLOWERS&labelColor=black"
- alt="Followers"
-/>
-
+  <img
+    src="https://img.shields.io/github/followers/Om-Suman?style=for-the-badge&color=0077B5&label=FOLLOWERS&labelColor=black"
+    alt="Followers"
+  />
 </p>
 
 <hr>
