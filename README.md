@@ -1,43 +1,76 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Om%20Suman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%40%20Bennett%20University&descAlignY=55&descSize=18" />
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Om%20Suman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%40%20Bennett%20University&descAlignY=55&descSize=18"
+/>
+
+<p align="center">
+  <img
+    width="750"
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+    alt="AI/ML Developer Coding"
+  />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Building+Computer+Vision+systems;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Building+Computer+Vision+systems;Always+shipping+something+new+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-suman-5a181828b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:om.suman514@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
   <a href="https://github.com/Om-Suman">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://codolio.com/profile/dqXBSMmy">
-    <img src="https://img.shields.io/badge/Codolio-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=white" alt="Codolio"/>
+    <img
+      src="https://img.shields.io/badge/Codolio-1E1E2E?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="Codolio"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Om-Suman&style=flat-square&color=00C4CC&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Om-Suman?style=flat-square&color=0077B5&label=FOLLOWERS&labelColor=black" alt="Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Om-Suman&style=flat-square&color=00C4CC&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+
+<img
+ src="https://img.shields.io/github/followers/Om-Suman?style=flat-square&color=0077B5&label=FOLLOWERS&labelColor=black"
+ alt="Followers"
+/>
+
 </p>
 
 <hr>
 
 ### 🧠 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-
 * 🎓 **B.Tech CSE (Data Science)** — Bennett University, Class of 2027 | **CGPA: 8.32/10**
 * 🤖 **AI/ML & Data Science** enthusiast focused on **Generative AI, RAG, Computer Vision & Machine Learning**
-* ⚙️ Build end-to-end applications combining **AI models, data pipelines, APIs & databases**
-* 🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — conducted resume workshops & mock interviews for **700+ students**
-
-<br clear="right">
+* ⚙️ Building **end-to-end AI applications** integrating models, data pipelines, APIs, databases, and modern web technologies
+* 🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — conducted **resume workshops & mock interviews for 700+ students**
 
 ---
 
@@ -99,6 +132,8 @@
 
 </details>
 
+---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
@@ -131,6 +166,6 @@
 </p>
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
 />
