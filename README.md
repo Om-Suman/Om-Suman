@@ -3,18 +3,12 @@ width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Om%20Suman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%40%20Bennett%20University&descAlignY=55&descSize=18"
 />
 
-<p align="center">
-  <img
-    width="750"
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-    alt="AI/ML Developer Coding"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Building+Computer+Vision+systems;Always+shipping+something+new+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=600&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+decisions+with+ML;Building+Full+Stack+applications;Always+shipping+something+new+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
@@ -66,7 +60,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC
 ### 🧠 About Me
 
 * 🎓 **B.Tech CSE (Data Science)** — Bennett University, Class of 2027 | **CGPA: 8.32/10**
-* 🤖 **AI/ML & Data Science** enthusiast focused on **Generative AI, RAG, Computer Vision & Machine Learning**
+* 🤖 **AI/ML & Data Science** enthusiast focused on **Generative AI, RAG, Full Stack Applications & Machine Learning**
 * ⚙️ Building **end-to-end AI applications** integrating models, data pipelines, APIs, databases, and modern web technologies
 * 🧩 **Sub Head — Placement Turnaround**, Dean Career Cloud — conducted **resume workshops & mock interviews for 700+ students**
 
@@ -109,8 +103,11 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC
 <br>
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
@@ -166,4 +163,4 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer"
-/> 
+/>
